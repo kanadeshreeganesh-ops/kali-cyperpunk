@@ -1,18 +1,9 @@
 ![main-logo](https://github.com/jopraveen/kali-punk/blob/main/assets/main-logo.png) <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/jopraveen/kali-punk?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/jopraveen/kali-punk?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/jopraveen/kali-punk?color=violet&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/jopraveen/kali-punk?color=teal&style=for-the-badge">
-</p>
 
 <h2 align="center">i3 rice Inspired by Cyberpunk 2077</h2> <br>
 
-# 😍 Full set up
-### Preview link: https://youtu.be/05Tl3i0RJ9U
-### Full tutorial (how to setup this): https://youtu.be/K3udjkay6-A
+
 
 <br>
 
@@ -248,4 +239,3 @@ sudo bash install.sh
   
 </details>
 
-#### Guys this is my first ricing, So if you have any errors please put it in the issues page...  I'll try to solve it in few hours
